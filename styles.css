@@ -1,0 +1,12 @@
+#game-tabel{
+    border:2px solid var(--table-color);
+    text-align: center;
+    height: 200px;
+    width: 400px;
+}
+
+.class-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
